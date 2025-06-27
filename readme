@@ -1,0 +1,6 @@
+# ejercicio de configuracion de servidor web y despliegue en la nube
+## usaremos : 
+* node + express
+* got + github
+* docker + dockerhub
+* render.com
